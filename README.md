@@ -20,9 +20,9 @@ by Vikas Vaghasiya, Disha Shimpi, Chhavi Dhiman, and Ashish Phophalia.
 
 ## 📁 Dataset Support
 
-- [CASIA-FASD](http://www.cbsr.ia.ac.cn/english/FASDB.asp)
+- [CASIA-FASD](https://ieeexplore.ieee.org/abstract/document/6199754)
 - [Replay-Attack](https://www.idiap.ch/en/dataset/replayattack)
-- [MSU-MFSD](https://github.com/ondyari/Face-anti-spoofing-dataset)
+- [MSU-MFSD](https://ieeexplore.ieee.org/abstract/document/7031384)
 
 
 
